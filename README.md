@@ -7,7 +7,7 @@
 - ReactJS
 - React hooks
 - styled-components
-- webpack / Gulp
+- webpack / Gulp / Parcel
 - Bootstrap
 - Git (Github)
 
