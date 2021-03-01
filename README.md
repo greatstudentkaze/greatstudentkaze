@@ -1,11 +1,12 @@
 ## Technology stack:
 - HTML
 - CSS
-- SCSS
-- JavaScript
+- SCSS / PostCSS
+- JavaScript / TypeScript
 - BEM (CSS)
 - ReactJS
 - React hooks
+- Redux
 - styled-components
 - webpack / Gulp / Parcel
 - Bootstrap
