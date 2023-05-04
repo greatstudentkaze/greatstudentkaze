@@ -3,7 +3,7 @@
 ## Technology stack:
 - HTML
 - CSS
-- SCSS / PostCSS
+- SCSS / PostCSS / Less
 - JavaScript / TypeScript
 - BEM (CSS)
 - ReactJS
